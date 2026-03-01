@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a developer passionate about building cool projects. H
 
 ---
 
-## 1. 🔍 [Roblox Server Finder](https://roblox-server-finder.onrender.com/)
+## 1. 🔍 [Roblox Smallest Server Finder](https://roblox-server-finder.onrender.com/)
 
 **Description:** A web app that helps you quickly find and search SMALLEST Roblox servers. No more scrolling endlessly!
 
